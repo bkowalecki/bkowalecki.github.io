@@ -1,0 +1,103 @@
+
+
+.carousel .carousel-slider{
+    margin: 0 auto;
+}
+
+/* .carousel-inner{
+    height:100%;
+    width: 100%;
+    
+} */
+
+.experience-section{
+    /* margin: 0 auto; */
+    /* padding:1.5rem; */
+    background-color: #A99FE6;
+}
+
+
+/* .herl-image{
+   min-width: none;
+
+   max-width: 50%; 
+} */
+
+/* .herl-image .image{
+    min-width: none;
+    width: 200px;
+    max-width: none; 
+ } */
+
+ .slide{
+    height: 250px;
+    width: 100%;
+    /* border: 4px solid #7264cc; */
+    /* box-shadow: 0 0 5px rgba(0,0,0,.05), 2px 2px 5px rgba(0,0,0,.1); */
+    border-radius: 4px;
+}
+
+ .slide img{
+   
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        overflow: hidden;
+
+ }
+
+ .thumbs{
+     display:none;
+ }
+
+
+ .CL-img{
+     width:45%;
+ }
+
+ .ed-subsection{
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .course-carousel{
+    margin: 0 2.5rem;
+    height: 5rem;
+ }
+
+
+ .carousel-root .course-carousel {
+    /* height:10px; */
+ }
+
+.course-carousel .control-dots{
+    display: none;
+ }
+
+ .course-carousel .slide{
+    height: 5rem;
+
+    
+ }
+
+ .course{
+     /* align-items: center;
+     justify-content: center;
+     vertical-align: middle;
+     text-align: center; */
+     /* display: flex; */
+     /* text-align: center; */
+     /* height: 15px; */
+     display: flex;
+     justify-content: center;
+     padding: 10px;
+     align-items: center;
+ }
+ .slider-wrapper{
+ }
+
+
+ /* .course-carousel .slide.selected{
+   
+ } */
+
