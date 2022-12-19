@@ -2,8 +2,11 @@
 import Header from './components/header/Header'
 import About from './components/about/about'
 import Experience from './components/experience/Experience'
+import Contact from './components/contact/Contact'
 import { createContext, useState } from 'react'
 import {ThemeProvider} from 'styled-components'
+import NavBar from './components/NavBar/NavBar'
+import Footer from './components/footer/Footer'
 
 // export const ThemeContext = createContext(null);
 
@@ -27,14 +30,14 @@ const App = () => {
 
 
   return (
-      <div className='App'>
-          <Header />
-          <Experience/>
-          <About/>
-          
-         
-          
-      </div>
+    <div className='App'>
+      <NavBar/>
+      <Header />
+      <Experience/>
+      <About/>
+      <Contact/>
+      <Footer/>
+    </div>
   )
 }
 

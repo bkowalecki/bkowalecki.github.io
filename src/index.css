@@ -2,7 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 
+html{
+    scroll-behavior: smooth;
+    background-color: #016170;
+}
+
 *{
+    background-color: #016170;
     margin: 0;
     padding: 0;
     border:0;
@@ -61,50 +67,14 @@ h1,h2,h3,h4,h5{
     font-size: 4.0rem;
 }
 
-/* section{
-    margin-top: 8rem;
-} */
 
-/* section > h2, section > h5 {
-    text-align: center;
-    color: var(--color-dark);
 
-} */
-
-/* section > h2,
-section > {
-    text-align: center;
-    color: var(--color-dark);
-} */
-
-/* section > h2 {
-    color: var(--color-primary);
-    margin-bottom: 3rem;
-} */
-
-.text-light{
-    color: var(--color-dark);
-}
-
-a{
-    color: var(--color-primary);
-    transition: var(--transition);
-}
 
 a:hover{
     color: var(--color-white);
 }
 
-.btn{
-    width: max-content;
-    display: inline-block;
-    color: var(--color-primary);
-    padding: 0.75rem 1.2rem;
-    border-radius: 0.4rem;
-    cursor: pointer;
-    border: 1px solid var(--color-primary);
-    transition: var(--transition);
-}
+
 
 .btn:hover{
     background: var(--color-white);
@@ -119,19 +89,14 @@ a:hover{
 
 .icon-social{
     font-size: 50px;
-    color: #A99FE6;
-}
-
-.section-header-white{
-    color: white;
-    padding:1rem;
+    color: #00e0c6;
 }
 
 .section-subheader-white{
     color: white;
     text-align: center;
-    margin-top: 2rem;
-    padding: 2.5rem;
+    margin-top: 5%;
+    /* padding: 2.5rem; */
 }
 
 
