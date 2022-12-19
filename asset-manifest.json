@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.658de2ff.css",
+    "main.js": "/static/js/main.7a327b6b.js",
+    "static/media/me.png": "/static/media/me.abc377a749467f2bc678.png",
+    "static/media/pitt2.png": "/static/media/pitt2.0ee95c3ed39fc3bb2642.png",
+    "static/media/herl.png": "/static/media/herl.9e29be6a5404e6de19c3.png",
+    "static/media/pitt.jpg": "/static/media/pitt.20ef5f8117a2dbc76888.jpg",
+    "static/media/aws3_b.png": "/static/media/aws3_b.cae093b8cded78a6140d.png",
+    "static/media/motorcycle.png": "/static/media/motorcycle.2f3eb718c49cc79a202f.png",
+    "static/media/bball.png": "/static/media/bball.39de00b49e48254c0c5f.png",
+    "static/media/wholeys.jpg": "/static/media/wholeys.d78e1d7c62fb858f8dbd.jpg",
+    "static/media/telescope.png": "/static/media/telescope.2f4564d25e3ead3790f3.png",
+    "static/media/pyschology.png": "/static/media/pyschology.6d030e33b160091355f5.png",
+    "static/media/responsival.jpeg": "/static/media/responsival.c10b727624cfe3518c6c.jpeg",
+    "index.html": "/index.html",
+    "main.658de2ff.css.map": "/static/css/main.658de2ff.css.map",
+    "main.7a327b6b.js.map": "/static/js/main.7a327b6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658de2ff.css",
+    "static/js/main.7a327b6b.js"
+  ]
+}
