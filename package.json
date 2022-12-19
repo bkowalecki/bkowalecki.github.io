@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site",
   "version": "0.1.0",
-  "homepage": "https://bkowalecki.github.io",
+  "homepage": "https://bkowalecki.github.io/bkowalecki.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
